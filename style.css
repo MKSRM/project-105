@@ -1,0 +1,25 @@
+body {
+    background-color: aliceblue;
+}
+
+.heading {
+    font-size: 25px;
+    width: 80%;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.name_of_emotions {
+    color:rgb(236, 24, 24);
+}
+
+#camera {
+    border:2px solid darkgrey;
+    width:350px;
+    height:300px;
+}
+
+#result_emotion_name,#result_emotion_accuracy {
+    color: rgb(19, 19, 19);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+}
